@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from skimage import data, io, filters, morphology, feature, exposure
 from matplotlib import pyplot as plt
 import numpy as np
